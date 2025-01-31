@@ -1,5 +1,4 @@
 # teachable-machine-model
-Hand Gesture Recognition Model
 
 # Hand Gesture Recognition Model
 
@@ -60,11 +59,4 @@ print(f"Predicted Gesture: {predicted_class}")
 - Expand dataset to include different lighting conditions and hand positions.
 - Train the model with additional gestures.
 - Deploy as a web-based application for real-time hand gesture recognition.
-
-## Contributing
-If you'd like to contribute, feel free to fork the repository, improve the model, and submit a pull request!
-
-## License
-This project is released under the MIT License.
-
 
